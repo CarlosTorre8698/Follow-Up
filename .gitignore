@@ -1,5 +1,5 @@
-myenv
-stations
-walks.zarr
-chunking.h5
-Amon_files
+# Ignorar todos los archivos y carpetas
+*
+
+# Excepto los siguientes archivos
+!followop.ipynb
